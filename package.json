@@ -1,5 +1,5 @@
 {
-  "name": "@reactioncommerce/api-plugin-example",
+  "name": "@victors1681/mseller-reaction-core",
   "description": "Boilerplate Example plugin for the Reaction API",
   "version": "0.0.0-development",
   "main": "index.js",
@@ -7,21 +7,21 @@
   "engines": {
     "node": ">=12.14.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-example",
-  "url": "https://github.com/reactioncommerce/api-plugin-example",
-  "email": "engineering@reactioncommerce.com",
+  "homepage": "https://github.com/victors1681/mseller-reaction-core",
+  "url": "https://github.com/victors1681/mseller-reaction-core",
+  "email": "engineering@victors1681.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-example.git"
+    "url": "git+https://github.com/victors1681/mseller-reaction-core.git"
   },
   "author": {
     "name": "Reaction Commerce",
-    "email": "engineering@reactioncommerce.com",
-    "url": "https://reactioncommerce.com"
+    "email": "engineering@victors1681.com",
+    "url": "https://victors1681.com"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-example/issues"
+    "url": "https://github.com/victors1681/mseller-reaction-core/issues"
   },
   "sideEffects": false,
   "dependencies": {
