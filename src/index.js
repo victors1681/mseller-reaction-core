@@ -11,4 +11,5 @@ export default async function register(app) {
     name: "mseller-core",
     version: pkg.version
   });
+  console.log("THIS IS THE API OBJECT", app)
 }
