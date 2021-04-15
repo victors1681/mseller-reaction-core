@@ -1,7 +1,7 @@
 {
   "name": "@victors1681/mseller-reaction-core",
   "description": "Boilerplate Example plugin for the Reaction API",
-  "version": "0.0.3-development",
+  "version": "0.0.6-development",
   "main": "index.js",
   "type": "module",
   "engines": {
@@ -25,7 +25,9 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@reactioncommerce/api-utils": "^1.14.5"
+    "@reactioncommerce/api-plugin-products": "^1.0.2",
+    "@reactioncommerce/api-utils": "^1.14.3",
+    "simpl-schema": "^1.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
